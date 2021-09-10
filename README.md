@@ -1,2 +1,3 @@
 # home-budget-api
-BudgetApp Backend API in Deno Runtime
+
+Home Budget App Backend API in Deno Runtime
